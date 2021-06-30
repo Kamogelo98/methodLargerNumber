@@ -25,7 +25,7 @@ git clone https://github.com/Kamogelo98/methodLargerNumber.git
 ``` 
 
 ``` bash
-cd methodLargerNumber/
+cd methodLargerNumber
 ```
 
 Open ``` index.html ``` in your preferred browser
